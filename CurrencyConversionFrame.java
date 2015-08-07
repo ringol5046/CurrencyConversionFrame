@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-/*Business P11.25  Write a program with a graphical interface that allows the user to convert an amount
+/*Business P11.25   Write a program with a graphical interface that allows the user to convert an amount
  of money between U.S. dollars (USD), euro (EUR), and British pounds (GBP). The
  user interface should have the following elements: a text box to enter the amount to
  be converted, two combo boxes to allow the user to select the currencies, a button
